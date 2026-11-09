@@ -1,0 +1,6 @@
+{
+  "name": "Daily Smart Tools",
+  "description": "Everyday tools. Made simple. A suite of 12 smart utilities including calculators, QR scanner/generator, notes, expenses, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
